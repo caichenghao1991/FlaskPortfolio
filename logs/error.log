@@ -1,0 +1,136 @@
+[2021-12-09 01:17:46 -0600] [82892] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:17:46 -0600] [82892] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:17:46 -0600] [82892] [ERROR] Retrying in 1 second.
+[2021-12-09 01:17:47 -0600] [82892] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:17:47 -0600] [82892] [ERROR] Retrying in 1 second.
+[2021-12-09 01:17:48 -0600] [82892] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:17:48 -0600] [82892] [ERROR] Retrying in 1 second.
+[2021-12-09 01:17:49 -0600] [82892] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:17:49 -0600] [82892] [ERROR] Retrying in 1 second.
+[2021-12-09 01:17:50 -0600] [82892] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:17:50 -0600] [82892] [ERROR] Retrying in 1 second.
+[2021-12-09 01:17:51 -0600] [82892] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:18:21 -0600] [82912] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:18:21 -0600] [82912] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:21 -0600] [82912] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:22 -0600] [82912] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:22 -0600] [82912] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:23 -0600] [82912] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:23 -0600] [82912] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:24 -0600] [82912] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:24 -0600] [82912] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:25 -0600] [82912] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:25 -0600] [82912] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:26 -0600] [82912] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:18:34 -0600] [82923] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:18:34 -0600] [82923] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:34 -0600] [82923] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:35 -0600] [82923] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:35 -0600] [82923] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:36 -0600] [82923] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:36 -0600] [82923] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:37 -0600] [82923] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:37 -0600] [82923] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:38 -0600] [82923] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:18:38 -0600] [82923] [ERROR] Retrying in 1 second.
+[2021-12-09 01:18:39 -0600] [82923] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:25:50 -0600] [83431] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:25:50 -0600] [83431] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:25:50 -0600] [83431] [ERROR] Retrying in 1 second.
+[2021-12-09 01:25:51 -0600] [83431] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:25:51 -0600] [83431] [ERROR] Retrying in 1 second.
+[2021-12-09 01:25:52 -0600] [83431] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:25:52 -0600] [83431] [ERROR] Retrying in 1 second.
+[2021-12-09 01:25:53 -0600] [83431] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:25:53 -0600] [83431] [ERROR] Retrying in 1 second.
+[2021-12-09 01:25:54 -0600] [83431] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:25:54 -0600] [83431] [ERROR] Retrying in 1 second.
+[2021-12-09 01:25:55 -0600] [83431] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:29:40 -0600] [83787] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:29:40 -0600] [83787] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:29:40 -0600] [83787] [ERROR] Retrying in 1 second.
+[2021-12-09 01:29:41 -0600] [83787] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:29:41 -0600] [83787] [ERROR] Retrying in 1 second.
+[2021-12-09 01:29:42 -0600] [83787] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:29:42 -0600] [83787] [ERROR] Retrying in 1 second.
+[2021-12-09 01:29:43 -0600] [83787] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:29:43 -0600] [83787] [ERROR] Retrying in 1 second.
+[2021-12-09 01:29:44 -0600] [83787] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:29:44 -0600] [83787] [ERROR] Retrying in 1 second.
+[2021-12-09 01:29:45 -0600] [83787] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:30:58 -0600] [83993] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:30:58 -0600] [83993] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:30:58 -0600] [83993] [ERROR] Retrying in 1 second.
+[2021-12-09 01:30:59 -0600] [83993] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:30:59 -0600] [83993] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:00 -0600] [83993] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:00 -0600] [83993] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:01 -0600] [83993] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:01 -0600] [83993] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:02 -0600] [83993] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:02 -0600] [83993] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:03 -0600] [83993] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:31:24 -0600] [84009] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:31:24 -0600] [84009] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:24 -0600] [84009] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:25 -0600] [84009] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:25 -0600] [84009] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:26 -0600] [84009] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:26 -0600] [84009] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:27 -0600] [84009] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:27 -0600] [84009] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:28 -0600] [84009] [ERROR] Connection in use: ('0.0.0.0', 8080)
+[2021-12-09 01:31:28 -0600] [84009] [ERROR] Retrying in 1 second.
+[2021-12-09 01:31:29 -0600] [84009] [ERROR] Can't connect to ('0.0.0.0', 8080)
+[2021-12-09 01:34:38 -0600] [84170] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:34:38 -0600] [84170] [INFO] Listening at: http://0.0.0.0:8082 (84170)
+[2021-12-09 01:34:38 -0600] [84170] [INFO] Using worker: sync
+[2021-12-09 01:34:38 -0600] [84174] [INFO] Booting worker with pid: 84174
+[2021-12-09 01:34:38 -0600] [84175] [INFO] Booting worker with pid: 84175
+[2021-12-09 01:34:38 -0600] [84176] [INFO] Booting worker with pid: 84176
+[2021-12-09 01:34:38 -0600] [84177] [INFO] Booting worker with pid: 84177
+[2021-12-09 01:40:34 -0600] [84170] [INFO] Handling signal: int
+[2021-12-09 01:40:34 -0600] [84174] [INFO] Worker exiting (pid: 84174)
+[2021-12-09 01:40:34 -0600] [84175] [INFO] Worker exiting (pid: 84175)
+[2021-12-09 01:40:34 -0600] [84177] [INFO] Worker exiting (pid: 84177)
+[2021-12-09 01:40:34 -0600] [84176] [INFO] Worker exiting (pid: 84176)
+[2021-12-09 01:40:34 -0600] [84170] [INFO] Shutting down: Master
+[2021-12-09 01:46:19 -0600] [85350] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:46:19 -0600] [85350] [INFO] Listening at: http://127.0.0.1:8000 (85350)
+[2021-12-09 01:46:19 -0600] [85350] [INFO] Using worker: gevent
+[2021-12-09 01:46:19 -0600] [85352] [INFO] Booting worker with pid: 85352
+[2021-12-09 01:46:19 -0600] [85353] [INFO] Booting worker with pid: 85353
+[2021-12-09 01:46:19 -0600] [85354] [INFO] Booting worker with pid: 85354
+[2021-12-09 01:46:19 -0600] [85355] [INFO] Booting worker with pid: 85355
+[2021-12-09 01:46:46 -0600] [85350] [INFO] Handling signal: int
+[2021-12-09 01:46:46 -0600] [85352] [INFO] Worker exiting (pid: 85352)
+[2021-12-09 01:46:46 -0600] [85354] [INFO] Worker exiting (pid: 85354)
+[2021-12-09 01:46:46 -0600] [85353] [INFO] Worker exiting (pid: 85353)
+[2021-12-09 01:46:46 -0600] [85355] [INFO] Worker exiting (pid: 85355)
+[2021-12-09 01:46:46 -0600] [85350] [INFO] Shutting down: Master
+[2021-12-09 01:46:48 -0600] [85369] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:46:48 -0600] [85369] [INFO] Listening at: http://127.0.0.1:8000 (85369)
+[2021-12-09 01:46:48 -0600] [85369] [INFO] Using worker: gevent
+[2021-12-09 01:46:48 -0600] [85371] [INFO] Booting worker with pid: 85371
+[2021-12-09 01:46:48 -0600] [85372] [INFO] Booting worker with pid: 85372
+[2021-12-09 01:46:48 -0600] [85373] [INFO] Booting worker with pid: 85373
+[2021-12-09 01:46:48 -0600] [85374] [INFO] Booting worker with pid: 85374
+[2021-12-09 01:47:04 -0600] [85369] [INFO] Handling signal: int
+[2021-12-09 01:47:04 -0600] [85372] [INFO] Worker exiting (pid: 85372)
+[2021-12-09 01:47:04 -0600] [85373] [INFO] Worker exiting (pid: 85373)
+[2021-12-09 01:47:04 -0600] [85371] [INFO] Worker exiting (pid: 85371)
+[2021-12-09 01:47:04 -0600] [85374] [INFO] Worker exiting (pid: 85374)
+[2021-12-09 01:47:05 -0600] [85369] [INFO] Shutting down: Master
+[2021-12-09 01:47:40 -0600] [85431] [INFO] Starting gunicorn 20.1.0
+[2021-12-09 01:47:40 -0600] [85431] [INFO] Listening at: http://127.0.0.1:8000 (85431)
+[2021-12-09 01:47:40 -0600] [85431] [INFO] Using worker: gevent
+[2021-12-09 01:47:40 -0600] [85433] [INFO] Booting worker with pid: 85433
+[2021-12-09 01:47:40 -0600] [85434] [INFO] Booting worker with pid: 85434
+[2021-12-09 01:47:40 -0600] [85435] [INFO] Booting worker with pid: 85435
+[2021-12-09 01:47:40 -0600] [85436] [INFO] Booting worker with pid: 85436
+[2021-12-09 01:48:36 -0600] [85431] [INFO] Handling signal: int
+[2021-12-09 01:48:36 -0600] [85436] [INFO] Worker exiting (pid: 85436)
+[2021-12-09 01:48:36 -0600] [85434] [INFO] Worker exiting (pid: 85434)
+[2021-12-09 01:48:36 -0600] [85433] [INFO] Worker exiting (pid: 85433)
+[2021-12-09 01:48:36 -0600] [85435] [INFO] Worker exiting (pid: 85435)
+[2021-12-09 01:48:36 -0600] [85431] [INFO] Shutting down: Master

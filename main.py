@@ -14,4 +14,4 @@ def login():
 if __name__ == "__main__":
     app.run(host="localhost", port=8080, debug=True, threaded=True)
 
-    # gunicorn --config gunicorn.conf main:app
+    # gunicorn -c config.py main:app
